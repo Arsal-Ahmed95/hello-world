@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello, 
+
+My name is Arsal and I am an aspiring web developer! 
